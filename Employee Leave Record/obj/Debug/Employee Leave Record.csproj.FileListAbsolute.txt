@@ -1,0 +1,32 @@
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\bin\Debug\Employee Leave Record.exe.config
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\bin\Debug\Employee Leave Record.exe
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\bin\Debug\Employee Leave Record.pdb
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.csproj.AssemblyReference.cache
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.csproj.SuggestedBindingRedirects.cache
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Employees.resources
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Login.resources
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Properties.Resources.resources
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.csproj.GenerateResource.cache
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.csproj.CoreCompileInputs.cache
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.exe
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.pdb
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Leaves.resources
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Categories.resources
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.ViewLeave.resources
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\bin\Debug\Guna.UI.dll
+C:\Users\apple\source\repos\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.csproj.CopyComplete
+F:\Programming\Employee Leave Record\Employee Leave Record\bin\Debug\Employee Leave Record.exe.config
+F:\Programming\Employee Leave Record\Employee Leave Record\bin\Debug\Employee Leave Record.exe
+F:\Programming\Employee Leave Record\Employee Leave Record\bin\Debug\Employee Leave Record.pdb
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.csproj.AssemblyReference.cache
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Categories.resources
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Employees.resources
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Leaves.resources
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Login.resources
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.Properties.Resources.resources
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee_Leave_Record.ViewLeave.resources
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.csproj.GenerateResource.cache
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.csproj.CoreCompileInputs.cache
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.csproj.CopyComplete
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.exe
+F:\Programming\Employee Leave Record\Employee Leave Record\obj\Debug\Employee Leave Record.pdb
